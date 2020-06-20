@@ -4,6 +4,14 @@
   </h1>
   <div class="card-layout">
     <div class="Rectangle-1 rectangle-layout" *ngFor="let data of collegeData">
+      <div
+        style="position: absolute; top: -18px; z-index: 1; right: -1.4px;"
+        *ngIf="data.promoted == true"
+      >
+        <div class="promoted-tag PROMOTED">
+          Promoted
+        </div>
+      </div>
       <div class="Rectangle-1-copy-5">
         <img
           src="/assets/images/{{ data.image }}"
@@ -24,15 +32,27 @@
         <span class="Best-college-2018">{{ tag | titlecase }}</span>
       </span>
       <span class="in-260-colleges-in-north-campus">#{{ data.ranking }}</span>
-      <div style="margin-top: -3px">
+      <div style="margin-top: -3px;">
         <span class="Hansraj-College-Delhi-University">{{
           data.college_name
         }}</span>
+        <div class="star-rating">
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star" style="opacity: 0.5;"></span>
+        </div>
         <span
           ><del class="price"
             ><span class="text-style-1">₹</span>{{ data.original_fees }}</del
           ></span
         >
+        <div style="position: absolute; right: 27px; bottom: 116px;">
+          <div class="discount-tag">
+            <span class="discount-text">{{ data.discount }}</span>
+          </div>
+        </div>
       </div>
       <div style="margin-left: 17px; margin-top: -2px;">
         <span
