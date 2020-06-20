@@ -1,0 +1,286 @@
+.Layer-0 {
+  width: 1440px;
+  height: 2395px;
+  background-color: #ffffff;
+}
+
+.Colleges-in-North-India {
+  width: 190px;
+  height: 18px;
+  font-family: DINPro;
+  font-size: 18.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.97;
+  letter-spacing: normal;
+  text-align: left;
+  color: #444444;
+}
+
+.heading-layout {
+  margin: 49px 0 0 56px;
+}
+
+.card-layout {
+  display: grid;
+  grid-template-columns: 705px auto;
+}
+
+.Rectangle-1 {
+  width: 639px;
+  height: 377px;
+  border-radius: 3.8px;
+  box-shadow: 0 0 19px 0 rgba(68, 68, 68, 0.1);
+  border: solid 0.2px #444444;
+  background-color: #ffffff;
+}
+
+.rectangle-layout {
+  margin: 68px 0 6px 51px;
+  position: relative;
+}
+
+/* .Rectangle-1-copy-3 {
+  width: 639px;
+  height: 234px;
+  background-color: #000000;
+  border-radius: 3.8px 3.8px 0 0;
+} */
+
+.Rectangle-1-copy-5 {
+  width: 639px;
+  height: 234px;
+  opacity: 0.7;
+  background-color: #000000;
+  border-radius: 3.8px 3.8px 0 0;
+  position: relative;
+}
+
+.Rectangle-3 {
+  width: 75px;
+  height: 53px;
+  border-radius: 3.8px;
+  background-color: #f5a626;
+  position: absolute;
+  top: 28.3px;
+  right: 13px;
+}
+
+.-Very-Good {
+  width: 74px;
+  height: 35px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.-Very-Good .text-style-1 {
+  font-size: 18.5px;
+  font-weight: bold;
+}
+
+.Rectangle-2 {
+  width: 135px;
+  height: 34px;
+  border-radius: 16.5px;
+  background-color: #ffffff;
+  position: inherit;
+  top: -38px;
+  padding: 9px;
+  margin-left: 14px;
+}
+
+.Best-college-2018 {
+  width: 100px;
+  height: 13px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #444444;
+  padding: 8px;
+}
+
+.in-260-colleges-in-north-campus {
+  width: 199px;
+  height: 13px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  position: inherit;
+  top: -37px;
+  left: 122px;
+}
+
+.Hansraj-College-Delhi-University {
+  width: 260px;
+  height: 17px;
+  font-family: DINPro-bold;
+  font-size: 18.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.97;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+  margin-left: 17px;
+}
+
+.price {
+  width: 37px;
+  height: 10px;
+  font-family: DINPro;
+  font-size: 11px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+  position: absolute;
+  right: 60px;
+  bottom: 122px;
+}
+
+.text-style-1 {
+  font-family: Myriad Pro;
+  font-weight: normal;
+}
+
+.Near-Vishwavidyalya-Metro-Station {
+  width: 196px;
+  height: 13px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+  /* margin-top: 11px; */
+}
+
+.discounted-price {
+  width: 85px;
+  height: 26px;
+  font-family: DINPro-bold;
+  font-size: 28.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.89;
+  letter-spacing: normal;
+  text-align: center;
+  color: #dd1c26;
+  margin-left: 122px;
+}
+.discounted-price .text-style-2 {
+  font-family: Myriad Pro-bold;
+}
+
+.nearest-places-layout {
+  width: 378px;
+  height: 13px;
+  font-family: DINPro-bold;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #adadad;
+  margin-top: 9px;
+}
+.text-style-3 {
+  font-weight: bold;
+  color: #37b396;
+}
+.text-style-4 {
+  font-weight: bold;
+  color: #444444;
+}
+
+.Per-Semester-3months {
+  width: 113px;
+  height: 10px;
+  font-family: Myriad Pro;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+  position: absolute;
+  right: 27px;
+  bottom: 68px;
+}
+
+.Rectangle-4 {
+  width: 363px;
+  height: 35px;
+  background-color: #ccf5e7;
+  margin-left: -16px;
+  margin-top: 15px;
+  border-radius: 0 35px 35px 0;
+}
+
+.Rectangle-5 {
+  width: 309px;
+  height: 13px;
+  font-family: DINPro-bold;
+  font-size: 13.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+  margin-left: 15px;
+  vertical-align: -webkit-baseline-middle;
+}
+
+.Free-Cancellation {
+  width: 101px;
+  height: 10px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #37b396;
+}
+
+.amenity-layout {
+  position: absolute;
+  right: 27px;
+  bottom: 20px;
+}

@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: DINPro;
+  src: url(src/assets/font/DINPro-Medium_13936.woff) format("woff");
+}
+
+@font-face {
+  font-family: DINPro-bold;
+  src: url(src/assets/font/DINPro-Bold-tr.woff) format("woff");
+}
+
+@font-face {
+  font-family: Myriad Pro;
+  src: url(src/assets/font/MYRIADPRO-REGULAR.woff) format("woff");
+}
+
+@font-face {
+    font-family: Myriad Pro-bold;
+    src: url(src/assets/font/MYRIADPRO-BOLD.woff) format("woff");
+  }
